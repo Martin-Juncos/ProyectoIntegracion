@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: bisque;
+    border: 1px solid burlywood;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
